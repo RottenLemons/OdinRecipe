@@ -1,9 +1,9 @@
-#logo {
+#hide {
     color: black;
     text-decoration: none;
 }
 
-#logo:hover {
+#hide:hover {
     color: black;
     text-decoration: none;
 }
@@ -16,3 +16,11 @@ div {
     align-items: center;
 }
 
+ul {
+    text-align: left;
+}
+
+
+ol {
+    text-align: left;
+}
