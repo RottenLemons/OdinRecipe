@@ -1,1 +1,2 @@
 # OdinRecipe
+This site is a short practice of what I learnt for the HTML module of Odin Project. I learnt how to use Github and Git, how to host websites on Github Pages and most importantly, used the skills and techniques learnt in the HTML section of Odin Project. I also learn some CSS to ensure that everything is centered, but I am still excited to learn more about web development
