@@ -16,6 +16,17 @@ div {
     align-items: center;
 }
 
+.mid {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    overflow-wrap: break-word;
+    width: 50em;
+    margin: auto;
+}
+
 ul {
     text-align: left;
 }
